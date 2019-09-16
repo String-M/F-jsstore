@@ -1,0 +1,190 @@
+@charset "UTF-8";
+.banner604{
+    position: relative;
+}
+.banner604 a{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 604px;
+    background: url(../images/dbanner.png) no-repeat top center;
+    background-size: 1349px 504px;
+}
+.main{
+    position: relative;
+}
+.slider {
+    width: 730px;
+    height: 453px;
+    background-color: pink;
+    margin:12px 0 0 220px;
+    float: left;
+    position: relative;
+}
+.main .slider img{
+    width: 730px;
+    height: 457px;
+}
+/*下面的圆形数字*/
+.circle{
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    margin-left: -66px;
+}
+.circle li{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #3E3E3E;
+    float: left;
+    text-align: center;
+    line-height: 18px;
+    color: #fff;
+    margin: 0 2px;
+    cursor: pointer;
+}
+.circle li.current{
+    background-color: #B61B1F;
+}
+/*左右三角形*/
+.arrow-l, .arrow-r {
+    position: absolute;
+    width: 28px;
+    height: 62px;
+    background-color: pink;
+    top: 50%;
+    margin-top: -31px;
+    color: #fff;
+    font:500 18px/62px "宋体";
+    text-align: center;
+    background:rgba(0,0,0,.2);
+}
+.arrow-l{
+    left: 0;
+}
+.arrow-r{
+    right: 0;
+}
+.arrow-l:hover , .arrow-r:hover{
+    background: rgba(0,0,0,.4);
+    color: #fff;
+}
+.news{
+    width: 248px;
+    height: 451px;
+    border: 1px solid #E4E4E4;
+    float: right;
+    margin-top: 12px;
+    background-color: #fff;
+}
+.jd-news{
+    height: 200px;
+    border-bottom: 1px dashed #e4e4e4;
+}
+.jd-news .dt, .lifeservi .dt{
+    height: 43px;
+    border-bottom: 1px dotted #e8e8e7;
+    line-height: 43px;
+}
+.jd-news .dt h3, .lifeservi .dt h3{
+    float: left;
+    font:14px/43px "microsoft yaheix";
+    color: #666;
+    padding-left: 15px;
+}
+.jd-news .dt a{
+    float: right;
+    font:13px/43px "宋体";
+    padding-right: 15px;
+}
+.jd-news .dd ul{
+    padding:8px 0 0 15px;
+}
+.jd-news .dd li{
+    line-height: 28px;
+}
+.jd-news .dd li span{
+    font-weight: 700;
+    color:#e1251b ;
+    margin-right: 5px;
+}
+.lifeservi{
+    height: 251px;
+    width: 248px;
+    overflow: hidden;
+}
+.lifeservi ul{
+    width: 280px;
+}
+.lifeservi .dd li{
+    width: 62px;
+    height: 70px;
+    border: 1px solid #e4e4e4;
+    float: left;
+    margin: -1px 0 0 -1px;
+    position: relative;
+}
+.lifeservi li i{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin: 15px 0 0 16px;
+}
+.lifeservi li span{
+    position: absolute;
+    margin: 45px 0 0 19px;
+}
+.lifeservi .put-1{
+    background:url(../images/shouji.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-2{
+    background:url(../images/feiji.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-3{
+    background:url(../images/jiudian.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-4{
+    background:url(../images/youxi.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-5{
+    background:url(../images/jiayouka.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-6{
+    background:url(../images/huochepiao.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-7{
+    background:url(../images/jiudian.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-8{
+    background:url(../images/jiudian.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-9{
+    background:url(../images/jiudian.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-10{
+    background:url(../images/jiudian.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-11{
+    background:url(../images/jiudian.png) no-repeat;
+    background-size: 30px 30px;
+}
+.lifeservi .put-12{
+    background:url(../images/jiudian.png) no-repeat;
+    background-size: 30px 30px;
+}
+
+
+
+

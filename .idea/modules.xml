@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JS学习/.idea/JS学习.iml" filepath="$PROJECT_DIR$/../JS学习/.idea/JS学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/京东商城实践.iml" filepath="$PROJECT_DIR$/.idea/京东商城实践.iml" />
+      <module fileurl="file://E:/A  前端实例/关闭二维码--淘宝/.idea/关闭二维码--淘宝.iml" filepath="E:/A  前端实例/关闭二维码--淘宝/.idea/关闭二维码--淘宝.iml" />
+      <module fileurl="file://E:/A  前端实例/循环精灵图--京东/.idea/循环精灵图--京东.iml" filepath="E:/A  前端实例/循环精灵图--京东/.idea/循环精灵图--京东.iml" />
+    </modules>
+  </component>
+</project>
